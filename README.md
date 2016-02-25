@@ -1,2 +1,2 @@
 # go-code-clinic
-Code Clinic exercise solutions in Go
+https://lynda.com Code Clinic exercise solutions in Go
